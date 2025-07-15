@@ -41,3 +41,12 @@ Clone the repository and install dependencies:
 git clone https://github.com/NayanKanaparthi/Quantitative-Risk-Simulator-using-Correlated-GBM-Monte-Carlo.git
 cd Quantitative-Risk-Simulator-using-Correlated-GBM-Monte-Carlo
 pip install -r requirements.txt
+
+
+<details>
+<summary><strong>Running the Application</strong></summary>
+
+To launch the Streamlit app locally:
+
+```bash
+streamlit run app.py
