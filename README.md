@@ -40,5 +40,4 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/NayanKanaparthi/Quantitative-Risk-Simulator-using-Correlated-GBM-Monte-Carlo.git
 cd Quantitative-Risk-Simulator-using-Correlated-GBM-Monte-Carlo
-pip install -r requirements.txt^
-</details> ```
+pip install -r requirements.txt
